@@ -1,0 +1,45 @@
+body{
+    
+    text-align: center;
+    margin: 0% 70px;
+    
+    padding: 1%
+}
+
+.clear{
+    clear: both;
+}    
+.box{
+    margin:  2px 2px 0px 0px;
+    float: left;
+    
+}
+
+.a1{
+   padding: 3px;
+   background-color: rgb(238, 238, 238);
+}
+.a2{
+    
+    padding: 1% 14%;
+    background-color:rgb(126, 229, 218);
+    
+}
+.a3{
+   
+    padding: 0.6% 6.4% ;
+    font-size: small;
+    background-color: rgb(112, 204, 194);
+    
+}
+.a4{
+    padding: 0.2% 170px;
+    font-size: small;
+    background-color: rgb(98, 179, 170);
+}
+
+p {
+    font-size: small;
+}
+
+
